@@ -53,7 +53,7 @@ We publish tutorials, demos, and technical resources on:
 
 ## About
 
-LBSocial was founded by **Dr. Xuebin Wei**, an Associate Professor in the School of Integrated Sciences at James Madison University. His work focuses on cloud computing, data science, GIS, social media analytics, and AI-supported education.
+LBSocial is an independent technology and education company focused on practical AI, cloud computing, data analytics, and automation. We create tools, tutorials, and open-source resources that help learners, educators, and professionals build real-world technical solutions.
 
 ## Connect
 
