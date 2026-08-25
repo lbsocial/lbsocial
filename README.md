@@ -1,60 +1,57 @@
-# LBSocial
+# LBSocial Learning Resources
 
-**LBSocial** builds practical AI, cloud, and data solutions for education, research, and real-world analytics.
+LBSocial teaches practical ways to use AI, data, cloud computing, and automation. Our public resources are designed for learners who want to understand the ideas, follow working examples, and build something useful.
 
-Our work focuses on making modern technologies more accessible through hands-on tutorials, open-source projects, and applied learning resources. We develop workflows that connect generative AI, cloud computing, automation, and data analytics.
+[Website](https://www.lbsocial.net/) · [YouTube](https://www.youtube.com/@LBSocial)
 
-## What We Build
+## How new Courses work
 
-* **AI-powered learning tools** for teaching, training, and self-guided study
-* **Cloud-based data pipelines** for collecting, processing, and visualizing real-world data
-* **Local-first AI workflows** using tools such as Ollama, n8n, and self-hosted services
-* **Automation systems** for content creation, social media workflows, and productivity
-* **Applied tutorials** covering AI, data science, GIS, and cloud deployment
+Each new open LBSocial Course will have its own public GitHub repository: **one Course = one repository**.
 
-## Featured Projects
+Course repositories will provide clear **English** and **中文** learning entrances. As a Course is published, its repository may include:
 
-### LBSocial AI Platform
+- lesson materials and practical code;
+- notebooks and datasets that are safe to share;
+- static HTML/JavaScript demonstrations;
+- diagrams and animations;
+- links to the corresponding LBSocial videos.
 
-An AI-powered learning and analytics platform with study, teaching, and analysis modes.
+Only published resources receive live links. A `Coming soon` label means the Course is planned but its repository and Course site are not yet available.
 
-### Social Data Analytics in the Cloud
+## Course catalog
 
-Open-source resources and tutorials for collecting, storing, analyzing, and visualizing social and web data using cloud technologies and generative AI.
+| Course | Status | Focus |
+| --- | --- | --- |
+| **AI for Developers** | **Coming soon** | Practical AI-assisted software development |
+| **AI for Everyone** | **Coming soon** | Approachable AI concepts and everyday applications |
 
-### Local AI Automation
+No new Course repository or Course site is live yet. Links will be added here after each resource is publicly available.
 
-Experiments and tutorials for building privacy-conscious AI workflows with local language models, n8n, Docker, and remote access tools.
+## Learning resources available now
 
-### AI for Education
+### Tutorials and notebooks
 
-Projects exploring how generative AI can support teaching, workforce development, and accessible technical education.
+- [Data Analysis with Generative AI](https://github.com/lbsocial/data-analysis-with-generative-ai) — notebooks and tutorial links covering applied generative AI and data analysis.
 
-## Technologies
+### Reusable tools and examples
 
-`Python` `JavaScript` `Docker` `n8n` `Ollama` `Google Cloud` `AWS` `MongoDB` `Neo4j` `Firebase` `Cloud Run` `GitHub Actions` `GIS`
+- [OpenClaw, n8n, Neo4j, and GraphRAG workflows](https://github.com/lbsocial/openclaw-n8n-neo4j-workflows) — public workflow examples and teaching demonstrations for AI automation tutorials.
 
-## Learn With Us
+### Experimental and public-beta work
 
-We publish tutorials, demos, and technical resources on:
+- [LBSocial AI Study Mode](https://www.lbsocial.net/lbsocial-ai) — a public learning-assistant experience for exploring LBSocial course and video resources.
+- [LBSocial AI public project window](https://github.com/lbsocial/lbsocial-ai-public) — beta information, supporting documentation, and public issue reporting.
 
-* AI-assisted coding and automation
-* Data analytics in the cloud
-* Local LLM deployment
-* Social media and web data analysis
-* AI-powered education workflows
-* Cloud-native application development
+These existing resources are useful today, but they are not presented as new Course repositories unless the catalog explicitly labels them that way.
 
-## Resources
+## Keep learning
 
-* Website: [lbsocial.net](https://www.lbsocial.net)
-* YouTube: [LBSocial](https://www.youtube.com/@lbsocial)
-* GitHub: [github.com/lbsocial](https://github.com/lbsocial)
+- Visit [lbsocial.net](https://www.lbsocial.net/) for current learning experiences and project information.
+- Watch [LBSocial on YouTube](https://www.youtube.com/@LBSocial) for tutorials, demonstrations, and course videos.
+- Browse the [LBSocial GitHub organization](https://github.com/lbsocial) for public code and learning resources.
 
-## About
+## Use and contribute
 
-LBSocial is an independent technology and education company focused on practical AI, cloud computing, data analytics, and automation. We create tools, tutorials, and open-source resources that help learners, educators, and professionals build real-world technical solutions.
+Each repository documents its own setup, intended use, contribution path, and license. Please check those details before reusing its materials, and report project-specific problems in that repository's issue tracker.
 
-## Connect
-
-Explore our repositories, follow our tutorials, and use our open-source resources to build practical AI and data solutions.
+中文学习入口会随每门公开 Course 一起发布。在标记为 `Coming soon` 的 Course 正式上线前，本目录不会提供尚不存在的仓库或页面链接。
