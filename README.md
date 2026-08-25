@@ -54,4 +54,4 @@ These existing resources are useful today, but they are not presented as new Cou
 
 Each repository documents its own setup, intended use, contribution path, and license. Please check those details before reusing its materials, and report project-specific problems in that repository's issue tracker.
 
-公开 GitHub / YouTube Course 以英文为主；中文学习资源会在适合且可用时提供，不保证每门 Course 或每节 Lesson 都有完整中文版本。在标记为 `Coming soon` 的 Course 正式上线前，本目录不会提供尚不存在的仓库或页面链接。
+公开 GitHub / YouTube Course 以英文为主；中文学习资源会在适合且可用时提供，不保证每门 Course 或每节 Lesson 都有完整中文版本。此模式仅适用于公开 GitHub / YouTube Course；未来通过 Wix 提供的付费 Course 与此模式分开，也可能只提供英文内容。在标记为 `Coming soon` 的 Course 正式上线前，本目录不会提供尚不存在的仓库或页面链接。
