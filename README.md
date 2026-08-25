@@ -48,7 +48,7 @@ These existing resources are useful today, but they are not presented as new Cou
 
 - Visit [lbsocial.net](https://www.lbsocial.net/) for current learning experiences and project information.
 - Watch [LBSocial on YouTube](https://www.youtube.com/@LBSocial) for tutorials, demonstrations, and course videos.
-- Browse the [LBSocial GitHub organization](https://github.com/lbsocial) for public code and learning resources.
+- Browse the [LBSocial GitHub profile](https://github.com/lbsocial) for public code and learning resources.
 
 ## Use and contribute
 
